@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Test</string>
+    <string name="trending_repos">Trending</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
